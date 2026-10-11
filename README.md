@@ -1,6 +1,6 @@
 # Hi, I'm Shobha Sharma 👋
 
-**Frontend Software Engineer** building production React applications — currently expanding into full-stack development.
+**Full Stack Developer** building production React applications — currently expanding into full-stack development.
 
 - 🔭 2 years of experience shipping live products: a published Android app, an enterprise client portal, and an ERP & accounting platform (in progress)
 - 🌱 Currently learning **TypeScript**, **Playwright** (test automation), and backend development with **Node.js, Express & MongoDB**
